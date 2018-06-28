@@ -9,7 +9,7 @@ in Solidworks. .STL files are included for 3D printing.
 The internal mount (IM) and external casing (EC) can be printed at Shapeways: https://www.shapeways.com/
 
 Machining
-The stereotax adapter (SA) is machined from alumnium. We recommend protolabs as a vendor,  
+The stereotax adapter (SA) is machined from alumnium. We recommend machining the SA through protolabs: https://www.protolabs.com/
 
 
 Solidworks: https://www.solidworks.com/
