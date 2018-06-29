@@ -15,5 +15,8 @@ The stereotax adapter (SA) is machined from alumnium. We recommend machining the
 Solidworks: https://www.solidworks.com/
 
 
-Feel free to contact me: gbekheet@gmail.com with any design questions.
+Feel free to contact us if you have any questions.
 
+Ashley Juavinett: ajuavine@cshl.edu
+George Bekheet: gbekheet@gmail.com
+Anne Churchland: churchland@cshl.edu
