@@ -1,5 +1,5 @@
 # ChronicNeuropixels
-Neuropixels case for chronic recordings in freely moving mice.
+Neuropixels AMIE implant for chronic recordings in freely moving mice (https://www.biorxiv.org/content/early/2018/09/05/406074)
 
 The Neuropixel Casing (NPC) allows for chronic implantation of Neuropixels probes and recordings in freely moving mice.
 There are three parts to the designL the internal mount, the external casing, and a stereotax adapter. All files are designed
@@ -17,6 +17,6 @@ Solidworks: https://www.solidworks.com/
 
 Feel free to contact us if you have any questions.
 
-Ashley Juavinett: ajuavine@cshl.edu
+Ashley Juavinett: ashleyjuavinett@gmail.com
 George Bekheet: gbekheet@gmail.com
 Anne Churchland: churchland@cshl.edu
