@@ -3,8 +3,8 @@
 
 ![alt text](https://github.com/churchlandlab/ChronicNeuropixels/blob/master/Figure%201%20Probe%20Schematic-01.png)
 
-The Neuropixel Casing (NPC) allows for chronic implantation of Neuropixels probes and recordings in freely moving mice.
-There are three parts to the designL the internal mount, the external casing, and a stereotax adapter. All files are designed
+The Neuropixel AMIE allows for chronic implantation and re-use of Neuropixels probes and recordings in freely moving mice.
+There are three parts to the design: the internal mount, the external casing, and a stereotax adapter. All files are designed
 in Solidworks (https://www.solidworks.com/). STL files are included for 3D printing. 
 
 3D Printing
