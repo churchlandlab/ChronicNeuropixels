@@ -1,5 +1,5 @@
 # Neuropixels AMIE implant for chronic recordings in freely moving mice
-(https://www.biorxiv.org/content/early/2018/09/05/406074)
+(Juavinett, Bekheet, & Churchland, eLife 2019 https://elifesciences.org/articles/47188)
 
 ![alt text](https://github.com/churchlandlab/ChronicNeuropixels/blob/master/Figure%201%20Probe%20Schematic-01.png)
 
